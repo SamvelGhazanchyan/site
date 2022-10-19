@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'Metric';
+  src: url('../../resources/fonts/Metric-Bold.eot');
+  src: local('Metric-Bold'),
+  url('../../resources/fonts/Metric-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../../resources/fonts/Metric-Bold.woff2') format('woff2'),
+  url('../../resources/fonts/Metric-Bold.woff') format('woff'),
+  url('../../resources/fonts/Metric-Bold.ttf') format('truetype'),
+  url('../../resources/fonts/Metric-Bold.svg#Metric-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Metric';
+  src: url('../../resources/fonts/Metric-Light.eot');
+  src: local('Metric-Light'),
+  url('../../resources/fonts/Metric-Light.eot?#iefix') format('embedded-opentype'),
+  url('../../resources/fonts/Metric-Light.woff2') format('woff2'),
+  url('../../resources/fonts/Metric-Light.woff') format('woff'),
+  url('../../resources/fonts/Metric-Light.ttf') format('truetype'),
+  url('../../resources/fonts/Metric-Light.svg#Metric-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Metric';
+  src: url('../../resources/fonts/Metric-Regular.eot');
+  src: local('Metric-Regular'),
+  url('../../resources/fonts/Metric-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../../resources/fonts/Metric-Regular.woff2') format('woff2'),
+  url('../../resources/fonts/Metric-Regular.woff') format('woff'),
+  url('../../resources/fonts/Metric-Regular.ttf') format('truetype'),
+  url('../../resources/fonts/Metric-Regular.svg#Metric-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Metric';
+  src: url('../../resources/fonts/Metric-Medium.eot');
+  src: local('Metric-Medium'),
+  url('../../resources/fonts/Metric-Medium.eot?#iefix') format('embedded-opentype'),
+  url('../../resources/fonts/Metric-Medium.woff2') format('woff2'),
+  url('../../resources/fonts/Metric-Medium.woff') format('woff'),
+  url('../../resources/fonts/Metric-Medium.ttf') format('truetype'),
+  url('../../resources/fonts/Metric-Medium.svg#Metric-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Metric';
+  src: url('../../resources/fonts/Metric-SemiBold.eot');
+  src: local('Metric-SemiBold'),
+  url('../../resources/fonts/Metric-SemiBold.eot?#iefix') format('embedded-opentype'),
+  url('../../resources/fonts/Metric-SemiBold.woff2') format('woff2'),
+  url('../../resources/fonts/Metric-SemiBold.woff') format('woff'),
+  url('../../resources/fonts/Metric-SemiBold.ttf') format('truetype'),
+  url('../../resources/fonts/Metric-SemiBold.svg#Metric-SemiBold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Test-Task-Icons';
+  src:  url('../../resources/fonts/icons-font/fonts/Test-Task-Icons.eot?udy17q');
+  src:  url('../../resources/fonts/icons-font/fonts/Test-Task-Icons.eot?udy17q#iefix') format('embedded-opentype'),
+  url('../../resources/fonts/icons-font/fonts/Test-Task-Icons.ttf?udy17q') format('truetype'),
+  url('../../resources/fonts/icons-font/fonts/Test-Task-Icons.woff?udy17q') format('woff'),
+  url('../../resources/fonts/icons-font/fonts/Test-Task-Icons.svg?udy17q#Test-Task-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Test-Task-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-eye:before {
+  content: "\e906";
+}
+.icon-arrow:before {
+  content: "\e900";
+}
+.icon-chart:before {
+  content: "\e901";
+}
+.icon-check:before {
+  content: "\e902";
+}
+.icon-chevron:before {
+  content: "\e903";
+}
+.icon-clock:before {
+  content: "\e904";
+}
+.icon-dashboard:before {
+  content: "\e905";
+}
+.icon-heart:before {
+  content: "\e907";
+}
+.icon-interrogation:before {
+  content: "\e908";
+}
+.icon-key:before {
+  content: "\e909";
+}
+.icon-money:before {
+  content: "\e90a";
+}
+.icon-progress:before {
+  content: "\e90b";
+}
+.icon-settings:before {
+  content: "\e90c";
+}
+.icon-speaker:before {
+  content: "\e90d";
+}
+.icon-switch:before {
+  content: "\e90e";
+}
+.icon-user:before {
+  content: "\e90f";
+}
